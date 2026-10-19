@@ -1,0 +1,36 @@
+/* Generated from sites/aja-curations/site.json. */
+:root {
+  --bg: #fdf8ec;
+  --bg-alt: #f6ebcf;
+  --surface: #ffffff;
+  --ink: #2a2218;
+  --muted: #6f6350;
+  --line: #ebdfc2;
+  --accent: #a8741a;
+  --accent-strong: #85570f;
+  --accent-ink: #ffffff;
+  --accent-soft: #f8e6bd;
+  --accent-on-dark: #e8c476;
+  --dark: #241d12;
+  --dark-ink: #fdf8ec;
+  --error: #b42318;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 45%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #2a2218;
+  --topbar-line: #ebdfc2;
+  --product-fit: cover;
+  --product-bg: #fdf8ec;
+  --logo-bg: #fdf8ec;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
